@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <header-nav />
+    <transition name="router-anim" mode="out-in">
     <router-view />
+    </transition>
   </div>
 </template>
 
@@ -15,5 +17,5 @@ export default {
 </script>
 
 <style>
-@import "./assets/css/mains.css";
+@import "./assets/css/main.css";
 </style>
