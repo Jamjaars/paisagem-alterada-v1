@@ -9,19 +9,74 @@
 html, body {
   height: 100vh;
   width: 100vw;
+}
+
+body {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  overflow: scroll;
+  background-color: #374631;
+  z-index: 0;
+  margin: 42px 0px 0px 0px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+header--fixed {
+  top: 0;
+  width: 100vw;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   overflow: hidden;
+  z-index: 10;
 }
 
-#nav {
-  padding: 30px;
+h1 {
+  color: #42b983;
 }
 
-#nav a {
+.header {
+  position: fixed;
+  width: 100vw;
+}
+
+.header__title {
+  float: left;
+  color: #ffffff;
+  font-weigth: bold;
+}
+
+.header__nav {
+  padding: 10px 30px;
+  background-color: rgba(0, 0, 0, 0);
+  height: 20px;
+}
+
+.header__link {
   font-weight: bold;
-  color: #2c3e50;
+  color: #ffffff;
+  float: right;
+  padding: 0px 10px;
 }
 
-#nav a.router-link-exact-active {
+.header__link.router-link-exact-active {
   color: #42b983;
 }
 /*# sourceMappingURL=mains.css.map */
