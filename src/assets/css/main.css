@@ -1,9 +1,29 @@
+::-webkit-scrollbar {
+  width: 0px;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 html, body {
@@ -18,7 +38,7 @@ body {
   overflow: scroll;
   background-color: #374631;
   z-index: 0;
-  margin: 42px 0px 0px 0px;
+  margin: 0px;
 }
 
 body::before {
@@ -64,19 +84,34 @@ h1 {
   float: left;
   color: #ffffff;
   font-weigth: bold;
+  padding: 10px 0px;
 }
 
 .header__nav {
-  padding: 10px 30px;
+  padding: 0px 30px;
   background-color: rgba(0, 0, 0, 0);
-  height: 20px;
+  height: 40px;
 }
 
 .header__link {
   font-weight: bold;
   color: #ffffff;
   float: right;
-  padding: 0px 10px;
+  padding: 10px 10px;
+  text-decoration: none;
+  -webkit-transition-timing-function: cubic-bezier(0.1, 0.7, 1, 0.1);
+          transition-timing-function: cubic-bezier(0.1, 0.7, 1, 0.1);
+  -webkit-transition: 0.35s;
+  transition: 0.35s;
+}
+
+.header__link:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 2px;
+  -webkit-transition-timing-function: cubic-bezier(0.1, 0.7, 1, 0.1);
+          transition-timing-function: cubic-bezier(0.1, 0.7, 1, 0.1);
+  -webkit-transition: 0.25s;
+  transition: 0.25s;
 }
 
 .header__link.router-link-exact-active {
