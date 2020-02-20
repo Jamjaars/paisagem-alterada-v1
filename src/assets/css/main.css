@@ -145,136 +145,2067 @@ h1 {
 }
 
 section.f1 {
+  opacity: 0;
   -ms-grid-row: 2;
   -ms-grid-column: 7;
   grid-area: f1;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.c2 {
+  opacity: 0;
   -ms-grid-row: 3;
   -ms-grid-column: 4;
   grid-area: c2;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.d2 {
+  opacity: 0;
   -ms-grid-row: 3;
   -ms-grid-column: 5;
   grid-area: d2;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.e2 {
+  opacity: 0;
   -ms-grid-row: 3;
   -ms-grid-column: 6;
   grid-area: e2;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.f2 {
+  opacity: 0;
   -ms-grid-row: 3;
   -ms-grid-column: 7;
   grid-area: f2;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.h2 {
+  opacity: 0;
   -ms-grid-row: 3;
   -ms-grid-column: 9;
   grid-area: h2;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.i2 {
+  opacity: 0;
   -ms-grid-row: 3;
   -ms-grid-column: 10;
   grid-area: i2;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.j2 {
+  opacity: 0;
   -ms-grid-row: 3;
   -ms-grid-column: 11;
   grid-area: j2;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.b3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 3;
   grid-area: b3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.c3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 4;
   grid-area: c3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.d3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 5;
   grid-area: d3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.e3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 6;
   grid-area: e3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.f3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 7;
   grid-area: f3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.g3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 8;
   grid-area: g3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.h3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 9;
   grid-area: h3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.i3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 10;
   grid-area: i3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.j3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 11;
   grid-area: j3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 section.k3 {
+  opacity: 0;
   -ms-grid-row: 4;
   -ms-grid-column: 12;
   grid-area: k3;
-  background-image: url(../dot-outline.png);
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
-section.l3 {
-  -ms-grid-row: 4;
+section.b4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 3;
+  grid-area: b4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.c4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 4;
+  grid-area: c4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.d4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 5;
+  grid-area: d4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.e4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 6;
+  grid-area: e4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.f4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 7;
+  grid-area: f4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.g4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 8;
+  grid-area: g4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 9;
+  grid-area: h4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 10;
+  grid-area: i4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 11;
+  grid-area: j4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 12;
+  grid-area: k4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.l4 {
+  opacity: 0;
+  -ms-grid-row: 5;
   -ms-grid-column: 13;
-  grid-area: l3;
-  background-image: url(../dot-outline.png);
+  grid-area: l4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.m4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 14;
+  grid-area: m4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.n4 {
+  opacity: 0;
+  -ms-grid-row: 5;
+  -ms-grid-column: 15;
+  grid-area: n4;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.a5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 2;
+  grid-area: a5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.b5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 3;
+  grid-area: b5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.c5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 4;
+  grid-area: c5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.d5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 5;
+  grid-area: d5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.e5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 6;
+  grid-area: e5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.f5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 7;
+  grid-area: f5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.g5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 8;
+  grid-area: g5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 9;
+  grid-area: h5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 10;
+  grid-area: i5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 11;
+  grid-area: j5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 12;
+  grid-area: k5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.l5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 13;
+  grid-area: l5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.m5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 14;
+  grid-area: m5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.n5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 15;
+  grid-area: n5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.o5 {
+  opacity: 0;
+  -ms-grid-row: 6;
+  -ms-grid-column: 16;
+  grid-area: o5;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.a6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 2;
+  grid-area: a6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.b6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 3;
+  grid-area: b6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.c6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 4;
+  grid-area: c6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.d6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 5;
+  grid-area: d6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.e6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 6;
+  grid-area: e6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.f6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 7;
+  grid-area: f6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.g6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 8;
+  grid-area: g6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 9;
+  grid-area: h6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 10;
+  grid-area: i6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 11;
+  grid-area: j6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 12;
+  grid-area: k6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.l6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 13;
+  grid-area: l6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.m6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 14;
+  grid-area: m6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.n6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 15;
+  grid-area: n6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.o6 {
+  opacity: 0;
+  -ms-grid-row: 7;
+  -ms-grid-column: 16;
+  grid-area: o6;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.a7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 2;
+  grid-area: a7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.b7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 3;
+  grid-area: b7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.c7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 4;
+  grid-area: c7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.d7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 5;
+  grid-area: d7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.e7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 6;
+  grid-area: e7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.f7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 7;
+  grid-area: f7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.g7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 8;
+  grid-area: g7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 9;
+  grid-area: h7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 10;
+  grid-area: i7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 11;
+  grid-area: j7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 12;
+  grid-area: k7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.l7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 13;
+  grid-area: l7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.m7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 14;
+  grid-area: m7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.n7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 15;
+  grid-area: n7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.o7 {
+  opacity: 0;
+  -ms-grid-row: 8;
+  -ms-grid-column: 16;
+  grid-area: o7;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.b8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 3;
+  grid-area: b8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.c8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 4;
+  grid-area: c8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.d8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 5;
+  grid-area: d8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.e8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 6;
+  grid-area: e8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.f8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 7;
+  grid-area: f8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.g8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 8;
+  grid-area: g8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 9;
+  grid-area: h8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 10;
+  grid-area: i8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 11;
+  grid-area: j8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 12;
+  grid-area: k8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.l8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 13;
+  grid-area: l8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.m8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 14;
+  grid-area: m8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.n8 {
+  opacity: 0;
+  -ms-grid-row: 9;
+  -ms-grid-column: 15;
+  grid-area: n8;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.f9 {
+  opacity: 0;
+  -ms-grid-row: 10;
+  -ms-grid-column: 7;
+  grid-area: f9;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.g9 {
+  opacity: 0;
+  -ms-grid-row: 10;
+  -ms-grid-column: 8;
+  grid-area: g9;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h9 {
+  opacity: 0;
+  -ms-grid-row: 10;
+  -ms-grid-column: 9;
+  grid-area: h9;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i9 {
+  opacity: 0;
+  -ms-grid-row: 10;
+  -ms-grid-column: 10;
+  grid-area: i9;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j9 {
+  opacity: 0;
+  -ms-grid-row: 10;
+  -ms-grid-column: 11;
+  grid-area: j9;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k9 {
+  opacity: 0;
+  -ms-grid-row: 10;
+  -ms-grid-column: 12;
+  grid-area: k9;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.l9 {
+  opacity: 0;
+  -ms-grid-row: 10;
+  -ms-grid-column: 13;
+  grid-area: l9;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.m9 {
+  opacity: 0;
+  -ms-grid-row: 10;
+  -ms-grid-column: 14;
+  grid-area: m9;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.n9 {
+  opacity: 0;
+  -ms-grid-row: 10;
+  -ms-grid-column: 15;
+  grid-area: n9;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.g10 {
+  opacity: 0;
+  -ms-grid-row: 11;
+  -ms-grid-column: 8;
+  grid-area: g10;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h10 {
+  opacity: 0;
+  -ms-grid-row: 11;
+  -ms-grid-column: 9;
+  grid-area: h10;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i10 {
+  opacity: 0;
+  -ms-grid-row: 11;
+  -ms-grid-column: 10;
+  grid-area: i10;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j10 {
+  opacity: 0;
+  -ms-grid-row: 11;
+  -ms-grid-column: 11;
+  grid-area: j10;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k10 {
+  opacity: 0;
+  -ms-grid-row: 11;
+  -ms-grid-column: 12;
+  grid-area: k10;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.l10 {
+  opacity: 0;
+  -ms-grid-row: 11;
+  -ms-grid-column: 13;
+  grid-area: l10;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.m10 {
+  opacity: 0;
+  -ms-grid-row: 11;
+  -ms-grid-column: 14;
+  grid-area: m10;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.n10 {
+  opacity: 0;
+  -ms-grid-row: 11;
+  -ms-grid-column: 15;
+  grid-area: n10;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.g11 {
+  opacity: 0;
+  -ms-grid-row: 12;
+  -ms-grid-column: 8;
+  grid-area: g11;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h11 {
+  opacity: 0;
+  -ms-grid-row: 12;
+  -ms-grid-column: 9;
+  grid-area: h11;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i11 {
+  opacity: 0;
+  -ms-grid-row: 12;
+  -ms-grid-column: 10;
+  grid-area: i11;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j11 {
+  opacity: 0;
+  -ms-grid-row: 12;
+  -ms-grid-column: 11;
+  grid-area: j11;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k11 {
+  opacity: 0;
+  -ms-grid-row: 12;
+  -ms-grid-column: 12;
+  grid-area: k11;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.l11 {
+  opacity: 0;
+  -ms-grid-row: 12;
+  -ms-grid-column: 13;
+  grid-area: l11;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.m11 {
+  opacity: 0;
+  -ms-grid-row: 12;
+  -ms-grid-column: 14;
+  grid-area: m11;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.g12 {
+  opacity: 0;
+  -ms-grid-row: 13;
+  -ms-grid-column: 8;
+  grid-area: g12;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h12 {
+  opacity: 0;
+  -ms-grid-row: 13;
+  -ms-grid-column: 9;
+  grid-area: h12;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i12 {
+  opacity: 0;
+  -ms-grid-row: 13;
+  -ms-grid-column: 10;
+  grid-area: i12;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j12 {
+  opacity: 0;
+  -ms-grid-row: 13;
+  -ms-grid-column: 11;
+  grid-area: j12;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k12 {
+  opacity: 0;
+  -ms-grid-row: 13;
+  -ms-grid-column: 12;
+  grid-area: k12;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.l12 {
+  opacity: 0;
+  -ms-grid-row: 13;
+  -ms-grid-column: 13;
+  grid-area: l12;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h13 {
+  opacity: 0;
+  -ms-grid-row: 14;
+  -ms-grid-column: 9;
+  grid-area: h13;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i13 {
+  opacity: 0;
+  -ms-grid-row: 14;
+  -ms-grid-column: 10;
+  grid-area: i13;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j13 {
+  opacity: 0;
+  -ms-grid-row: 14;
+  -ms-grid-column: 11;
+  grid-area: j13;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.k13 {
+  opacity: 0;
+  -ms-grid-row: 14;
+  -ms-grid-column: 12;
+  grid-area: k13;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h14 {
+  opacity: 0;
+  -ms-grid-row: 15;
+  -ms-grid-column: 9;
+  grid-area: h14;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i14 {
+  opacity: 0;
+  -ms-grid-row: 15;
+  -ms-grid-column: 10;
+  grid-area: i14;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j14 {
+  opacity: 0;
+  -ms-grid-row: 15;
+  -ms-grid-column: 11;
+  grid-area: j14;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.h15 {
+  opacity: 0;
+  -ms-grid-row: 16;
+  -ms-grid-column: 9;
+  grid-area: h15;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.i15 {
+  opacity: 0;
+  -ms-grid-row: 16;
+  -ms-grid-column: 10;
+  grid-area: i15;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.j15 {
+  opacity: 0;
+  -ms-grid-row: 16;
+  -ms-grid-column: 11;
+  grid-area: j15;
+  -webkit-animation: fadeIn .380s;
+          animation: fadeIn .380s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+section.animation-delay1 {
+  -webkit-animation-delay: 0.005s;
+          animation-delay: 0.005s;
+}
+
+section.animation-delay2 {
+  -webkit-animation-delay: 0.01s;
+          animation-delay: 0.01s;
+}
+
+section.animation-delay3 {
+  -webkit-animation-delay: 0.015s;
+          animation-delay: 0.015s;
+}
+
+section.animation-delay4 {
+  -webkit-animation-delay: 0.02s;
+          animation-delay: 0.02s;
+}
+
+section.animation-delay5 {
+  -webkit-animation-delay: 0.025s;
+          animation-delay: 0.025s;
+}
+
+section.animation-delay6 {
+  -webkit-animation-delay: 0.03s;
+          animation-delay: 0.03s;
+}
+
+section.animation-delay7 {
+  -webkit-animation-delay: 0.035s;
+          animation-delay: 0.035s;
+}
+
+section.animation-delay8 {
+  -webkit-animation-delay: 0.04s;
+          animation-delay: 0.04s;
+}
+
+section.animation-delay9 {
+  -webkit-animation-delay: 0.045s;
+          animation-delay: 0.045s;
+}
+
+section.animation-delay10 {
+  -webkit-animation-delay: 0.05s;
+          animation-delay: 0.05s;
+}
+
+section.animation-delay11 {
+  -webkit-animation-delay: 0.055s;
+          animation-delay: 0.055s;
+}
+
+section.animation-delay12 {
+  -webkit-animation-delay: 0.06s;
+          animation-delay: 0.06s;
+}
+
+section.animation-delay13 {
+  -webkit-animation-delay: 0.065s;
+          animation-delay: 0.065s;
+}
+
+section.animation-delay14 {
+  -webkit-animation-delay: 0.07s;
+          animation-delay: 0.07s;
+}
+
+section.animation-delay15 {
+  -webkit-animation-delay: 0.075s;
+          animation-delay: 0.075s;
+}
+
+section.animation-delay16 {
+  -webkit-animation-delay: 0.08s;
+          animation-delay: 0.08s;
+}
+
+section.animation-delay17 {
+  -webkit-animation-delay: 0.085s;
+          animation-delay: 0.085s;
+}
+
+section.animation-delay18 {
+  -webkit-animation-delay: 0.09s;
+          animation-delay: 0.09s;
+}
+
+section.animation-delay19 {
+  -webkit-animation-delay: 0.095s;
+          animation-delay: 0.095s;
+}
+
+section.animation-delay20 {
+  -webkit-animation-delay: 0.1s;
+          animation-delay: 0.1s;
+}
+
+section.animation-delay21 {
+  -webkit-animation-delay: 0.105s;
+          animation-delay: 0.105s;
+}
+
+section.animation-delay22 {
+  -webkit-animation-delay: 0.11s;
+          animation-delay: 0.11s;
+}
+
+section.animation-delay23 {
+  -webkit-animation-delay: 0.115s;
+          animation-delay: 0.115s;
+}
+
+section.animation-delay24 {
+  -webkit-animation-delay: 0.12s;
+          animation-delay: 0.12s;
+}
+
+section.animation-delay25 {
+  -webkit-animation-delay: 0.125s;
+          animation-delay: 0.125s;
+}
+
+section.animation-delay26 {
+  -webkit-animation-delay: 0.13s;
+          animation-delay: 0.13s;
+}
+
+section.animation-delay27 {
+  -webkit-animation-delay: 0.135s;
+          animation-delay: 0.135s;
+}
+
+section.animation-delay28 {
+  -webkit-animation-delay: 0.14s;
+          animation-delay: 0.14s;
+}
+
+section.animation-delay29 {
+  -webkit-animation-delay: 0.145s;
+          animation-delay: 0.145s;
+}
+
+section.animation-delay30 {
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
+}
+
+section.animation-delay31 {
+  -webkit-animation-delay: 0.155s;
+          animation-delay: 0.155s;
+}
+
+section.animation-delay32 {
+  -webkit-animation-delay: 0.16s;
+          animation-delay: 0.16s;
+}
+
+section.animation-delay33 {
+  -webkit-animation-delay: 0.165s;
+          animation-delay: 0.165s;
+}
+
+section.animation-delay34 {
+  -webkit-animation-delay: 0.17s;
+          animation-delay: 0.17s;
+}
+
+section.animation-delay35 {
+  -webkit-animation-delay: 0.175s;
+          animation-delay: 0.175s;
+}
+
+section.animation-delay36 {
+  -webkit-animation-delay: 0.18s;
+          animation-delay: 0.18s;
+}
+
+section.animation-delay37 {
+  -webkit-animation-delay: 0.185s;
+          animation-delay: 0.185s;
+}
+
+section.animation-delay38 {
+  -webkit-animation-delay: 0.19s;
+          animation-delay: 0.19s;
+}
+
+section.animation-delay39 {
+  -webkit-animation-delay: 0.195s;
+          animation-delay: 0.195s;
+}
+
+section.animation-delay40 {
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
+}
+
+section.animation-delay41 {
+  -webkit-animation-delay: 0.205s;
+          animation-delay: 0.205s;
+}
+
+section.animation-delay42 {
+  -webkit-animation-delay: 0.21s;
+          animation-delay: 0.21s;
+}
+
+section.animation-delay43 {
+  -webkit-animation-delay: 0.215s;
+          animation-delay: 0.215s;
+}
+
+section.animation-delay44 {
+  -webkit-animation-delay: 0.22s;
+          animation-delay: 0.22s;
+}
+
+section.animation-delay45 {
+  -webkit-animation-delay: 0.225s;
+          animation-delay: 0.225s;
+}
+
+section.animation-delay46 {
+  -webkit-animation-delay: 0.23s;
+          animation-delay: 0.23s;
+}
+
+section.animation-delay47 {
+  -webkit-animation-delay: 0.235s;
+          animation-delay: 0.235s;
+}
+
+section.animation-delay48 {
+  -webkit-animation-delay: 0.24s;
+          animation-delay: 0.24s;
+}
+
+section.animation-delay49 {
+  -webkit-animation-delay: 0.245s;
+          animation-delay: 0.245s;
+}
+
+section.animation-delay50 {
+  -webkit-animation-delay: 0.25s;
+          animation-delay: 0.25s;
+}
+
+section.animation-delay51 {
+  -webkit-animation-delay: 0.255s;
+          animation-delay: 0.255s;
+}
+
+section.animation-delay52 {
+  -webkit-animation-delay: 0.26s;
+          animation-delay: 0.26s;
+}
+
+section.animation-delay53 {
+  -webkit-animation-delay: 0.265s;
+          animation-delay: 0.265s;
+}
+
+section.animation-delay54 {
+  -webkit-animation-delay: 0.27s;
+          animation-delay: 0.27s;
+}
+
+section.animation-delay55 {
+  -webkit-animation-delay: 0.275s;
+          animation-delay: 0.275s;
+}
+
+section.animation-delay56 {
+  -webkit-animation-delay: 0.28s;
+          animation-delay: 0.28s;
+}
+
+section.animation-delay57 {
+  -webkit-animation-delay: 0.285s;
+          animation-delay: 0.285s;
+}
+
+section.animation-delay58 {
+  -webkit-animation-delay: 0.29s;
+          animation-delay: 0.29s;
+}
+
+section.animation-delay59 {
+  -webkit-animation-delay: 0.295s;
+          animation-delay: 0.295s;
+}
+
+section.animation-delay60 {
+  -webkit-animation-delay: 0.3s;
+          animation-delay: 0.3s;
+}
+
+section.animation-delay61 {
+  -webkit-animation-delay: 0.305s;
+          animation-delay: 0.305s;
+}
+
+section.animation-delay62 {
+  -webkit-animation-delay: 0.31s;
+          animation-delay: 0.31s;
+}
+
+section.animation-delay63 {
+  -webkit-animation-delay: 0.315s;
+          animation-delay: 0.315s;
+}
+
+section.animation-delay64 {
+  -webkit-animation-delay: 0.32s;
+          animation-delay: 0.32s;
+}
+
+section.animation-delay65 {
+  -webkit-animation-delay: 0.325s;
+          animation-delay: 0.325s;
+}
+
+section.animation-delay66 {
+  -webkit-animation-delay: 0.33s;
+          animation-delay: 0.33s;
+}
+
+section.animation-delay67 {
+  -webkit-animation-delay: 0.335s;
+          animation-delay: 0.335s;
+}
+
+section.animation-delay68 {
+  -webkit-animation-delay: 0.34s;
+          animation-delay: 0.34s;
+}
+
+section.animation-delay69 {
+  -webkit-animation-delay: 0.345s;
+          animation-delay: 0.345s;
+}
+
+section.animation-delay70 {
+  -webkit-animation-delay: 0.35s;
+          animation-delay: 0.35s;
+}
+
+section.animation-delay71 {
+  -webkit-animation-delay: 0.355s;
+          animation-delay: 0.355s;
+}
+
+section.animation-delay72 {
+  -webkit-animation-delay: 0.36s;
+          animation-delay: 0.36s;
+}
+
+section.animation-delay73 {
+  -webkit-animation-delay: 0.365s;
+          animation-delay: 0.365s;
+}
+
+section.animation-delay74 {
+  -webkit-animation-delay: 0.37s;
+          animation-delay: 0.37s;
+}
+
+section.animation-delay75 {
+  -webkit-animation-delay: 0.375s;
+          animation-delay: 0.375s;
+}
+
+section.animation-delay76 {
+  -webkit-animation-delay: 0.38s;
+          animation-delay: 0.38s;
+}
+
+section.animation-delay77 {
+  -webkit-animation-delay: 0.385s;
+          animation-delay: 0.385s;
+}
+
+section.animation-delay78 {
+  -webkit-animation-delay: 0.39s;
+          animation-delay: 0.39s;
+}
+
+section.animation-delay79 {
+  -webkit-animation-delay: 0.395s;
+          animation-delay: 0.395s;
+}
+
+section.animation-delay80 {
+  -webkit-animation-delay: 0.4s;
+          animation-delay: 0.4s;
+}
+
+section.animation-delay81 {
+  -webkit-animation-delay: 0.405s;
+          animation-delay: 0.405s;
+}
+
+section.animation-delay82 {
+  -webkit-animation-delay: 0.41s;
+          animation-delay: 0.41s;
+}
+
+section.animation-delay83 {
+  -webkit-animation-delay: 0.415s;
+          animation-delay: 0.415s;
+}
+
+section.animation-delay84 {
+  -webkit-animation-delay: 0.42s;
+          animation-delay: 0.42s;
+}
+
+section.animation-delay85 {
+  -webkit-animation-delay: 0.425s;
+          animation-delay: 0.425s;
+}
+
+section.animation-delay86 {
+  -webkit-animation-delay: 0.43s;
+          animation-delay: 0.43s;
+}
+
+section.animation-delay87 {
+  -webkit-animation-delay: 0.435s;
+          animation-delay: 0.435s;
+}
+
+section.animation-delay88 {
+  -webkit-animation-delay: 0.44s;
+          animation-delay: 0.44s;
+}
+
+section.animation-delay89 {
+  -webkit-animation-delay: 0.445s;
+          animation-delay: 0.445s;
+}
+
+section.animation-delay90 {
+  -webkit-animation-delay: 0.45s;
+          animation-delay: 0.45s;
+}
+
+section.animation-delay91 {
+  -webkit-animation-delay: 0.455s;
+          animation-delay: 0.455s;
+}
+
+section.animation-delay92 {
+  -webkit-animation-delay: 0.46s;
+          animation-delay: 0.46s;
+}
+
+section.animation-delay93 {
+  -webkit-animation-delay: 0.465s;
+          animation-delay: 0.465s;
+}
+
+section.animation-delay94 {
+  -webkit-animation-delay: 0.47s;
+          animation-delay: 0.47s;
+}
+
+section.animation-delay95 {
+  -webkit-animation-delay: 0.475s;
+          animation-delay: 0.475s;
+}
+
+section.animation-delay96 {
+  -webkit-animation-delay: 0.48s;
+          animation-delay: 0.48s;
+}
+
+section.animation-delay97 {
+  -webkit-animation-delay: 0.485s;
+          animation-delay: 0.485s;
+}
+
+section.animation-delay98 {
+  -webkit-animation-delay: 0.49s;
+          animation-delay: 0.49s;
+}
+
+section.animation-delay99 {
+  -webkit-animation-delay: 0.495s;
+          animation-delay: 0.495s;
+}
+
+section.animation-delay100 {
+  -webkit-animation-delay: 0.5s;
+          animation-delay: 0.5s;
+}
+
+section.animation-delay101 {
+  -webkit-animation-delay: 0.505s;
+          animation-delay: 0.505s;
+}
+
+section.animation-delay102 {
+  -webkit-animation-delay: 0.51s;
+          animation-delay: 0.51s;
+}
+
+section.animation-delay103 {
+  -webkit-animation-delay: 0.515s;
+          animation-delay: 0.515s;
+}
+
+section.animation-delay104 {
+  -webkit-animation-delay: 0.52s;
+          animation-delay: 0.52s;
+}
+
+section.animation-delay105 {
+  -webkit-animation-delay: 0.525s;
+          animation-delay: 0.525s;
+}
+
+section.animation-delay106 {
+  -webkit-animation-delay: 0.53s;
+          animation-delay: 0.53s;
+}
+
+section.animation-delay107 {
+  -webkit-animation-delay: 0.535s;
+          animation-delay: 0.535s;
+}
+
+section.animation-delay108 {
+  -webkit-animation-delay: 0.54s;
+          animation-delay: 0.54s;
+}
+
+section.animation-delay109 {
+  -webkit-animation-delay: 0.545s;
+          animation-delay: 0.545s;
+}
+
+section.animation-delay110 {
+  -webkit-animation-delay: 0.55s;
+          animation-delay: 0.55s;
+}
+
+section.animation-delay111 {
+  -webkit-animation-delay: 0.555s;
+          animation-delay: 0.555s;
+}
+
+section.animation-delay112 {
+  -webkit-animation-delay: 0.56s;
+          animation-delay: 0.56s;
+}
+
+section.animation-delay113 {
+  -webkit-animation-delay: 0.565s;
+          animation-delay: 0.565s;
+}
+
+section.animation-delay114 {
+  -webkit-animation-delay: 0.57s;
+          animation-delay: 0.57s;
+}
+
+section.animation-delay115 {
+  -webkit-animation-delay: 0.575s;
+          animation-delay: 0.575s;
+}
+
+section.animation-delay116 {
+  -webkit-animation-delay: 0.58s;
+          animation-delay: 0.58s;
+}
+
+section.animation-delay117 {
+  -webkit-animation-delay: 0.585s;
+          animation-delay: 0.585s;
+}
+
+section.animation-delay118 {
+  -webkit-animation-delay: 0.59s;
+          animation-delay: 0.59s;
+}
+
+section.animation-delay119 {
+  -webkit-animation-delay: 0.595s;
+          animation-delay: 0.595s;
+}
+
+section.animation-delay120 {
+  -webkit-animation-delay: 0.6s;
+          animation-delay: 0.6s;
+}
+
+section.animation-delay121 {
+  -webkit-animation-delay: 0.605s;
+          animation-delay: 0.605s;
+}
+
+section.animation-delay122 {
+  -webkit-animation-delay: 0.61s;
+          animation-delay: 0.61s;
+}
+
+section.animation-delay123 {
+  -webkit-animation-delay: 0.615s;
+          animation-delay: 0.615s;
+}
+
+section.animation-delay124 {
+  -webkit-animation-delay: 0.62s;
+          animation-delay: 0.62s;
+}
+
+section.animation-delay125 {
+  -webkit-animation-delay: 0.625s;
+          animation-delay: 0.625s;
+}
+
+section.animation-delay126 {
+  -webkit-animation-delay: 0.63s;
+          animation-delay: 0.63s;
+}
+
+section.animation-delay127 {
+  -webkit-animation-delay: 0.635s;
+          animation-delay: 0.635s;
+}
+
+section.animation-delay128 {
+  -webkit-animation-delay: 0.64s;
+          animation-delay: 0.64s;
+}
+
+section.animation-delay129 {
+  -webkit-animation-delay: 0.645s;
+          animation-delay: 0.645s;
 }
 
 .dot-fill {
@@ -283,6 +2214,16 @@ section.l3 {
 
 .dot-outline {
   background-image: url(../dot-outline.png);
+}
+
+.fade-in-final {
+  opacity: 0;
+  -webkit-animation: fadeInFinal 1s;
+          animation: fadeInFinal 1s;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
 }
 
 .router-anim-enter-active {
@@ -301,10 +2242,10 @@ section.l3 {
             transform: translateY(-10px);
   }
   100% {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
   }
-  opacity: 1;
-  -webkit-transform: translateY(0px);
-          transform: translateY(0px);
 }
 
 @keyframes fadeIn {
@@ -314,10 +2255,28 @@ section.l3 {
             transform: translateY(-10px);
   }
   100% {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
   }
-  opacity: 1;
-  -webkit-transform: translateY(0px);
-          transform: translateY(0px);
+}
+
+@-webkit-keyframes fadeInFinal {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: .3;
+  }
+}
+
+@keyframes fadeInFinal {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: .3;
+  }
 }
 
 @-webkit-keyframes fadeInRouter {
@@ -344,5 +2303,68 @@ section.l3 {
     -webkit-transform: translateY(0px);
             transform: translateY(0px);
   }
+}
+
+@-webkit-keyframes slideIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    -webkit-transition: opacity 0.5s linear, -webkit-transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+    transition: opacity 0.5s linear, -webkit-transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+    transition: opacity 0.5s linear, transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+    transition: opacity 0.5s linear, transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1), -webkit-transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    -webkit-transition: opacity 0.5s linear, -webkit-transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+    transition: opacity 0.5s linear, -webkit-transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+    transition: opacity 0.5s linear, transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+    transition: opacity 0.5s linear, transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1), -webkit-transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+  }
+}
+
+.slide-in-move {
+  -webkit-transition: opacity .5s linear, -webkit-transform .5s ease-in-out;
+  transition: opacity .5s linear, -webkit-transform .5s ease-in-out;
+  transition: opacity .5s linear, transform .5s ease-in-out;
+  transition: opacity .5s linear, transform .5s ease-in-out, -webkit-transform .5s ease-in-out;
+}
+
+.slide-in-leave-active {
+  -webkit-transition: opacity 0.4s linear, -webkit-transform 0.4s cubic-bezier(0.5, 0, 0.7, 0.4);
+  transition: opacity 0.4s linear, -webkit-transform 0.4s cubic-bezier(0.5, 0, 0.7, 0.4);
+  transition: opacity 0.4s linear, transform 0.4s cubic-bezier(0.5, 0, 0.7, 0.4);
+  transition: opacity 0.4s linear, transform 0.4s cubic-bezier(0.5, 0, 0.7, 0.4), -webkit-transform 0.4s cubic-bezier(0.5, 0, 0.7, 0.4);
+  -webkit-transition-delay: calc( 0.1s * (var(--total) - var(--i)));
+          transition-delay: calc( 0.1s * (var(--total) - var(--i)));
+}
+
+.slide-in-enter-active {
+  -webkit-transition: opacity 0.5s linear, -webkit-transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+  transition: opacity 0.5s linear, -webkit-transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+  transition: opacity 0.5s linear, transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+  transition: opacity 0.5s linear, transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1), -webkit-transform 0.5s cubic-bezier(0.2, 0.5, 0.1, 1);
+  -webkit-transition-delay: calc( 0.1s * var(--i));
+          transition-delay: calc( 0.1s * var(--i));
+}
+
+.slide-in-enter, .slide-in-leave-to {
+  opacity: 0;
+}
+
+.slide-in-enter {
+  -webkit-transform: translateX(-1em);
+          transform: translateX(-1em);
+}
+
+.slide-in-leave-to {
+  -webkit-transform: translateX(1em);
+          transform: translateX(1em);
 }
 /*# sourceMappingURL=main.css.map */
