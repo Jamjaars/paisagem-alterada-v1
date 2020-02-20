@@ -169,14 +169,14 @@ section.e2 {
   -ms-grid-row: 3;
   -ms-grid-column: 6;
   grid-area: e2;
-  background-image: url(../dot-fill.png);
+  background-image: url(../dot-outline.png);
 }
 
 section.f2 {
   -ms-grid-row: 3;
   -ms-grid-column: 7;
   grid-area: f2;
-  background-image: url(../dot-fill.png);
+  background-image: url(../dot-outline.png);
 }
 
 section.h2 {
@@ -197,7 +197,7 @@ section.j2 {
   -ms-grid-row: 3;
   -ms-grid-column: 11;
   grid-area: j2;
-  background-image: url(../dot-fill.png);
+  background-image: url(../dot-outline.png);
 }
 
 section.b3 {
@@ -267,7 +267,22 @@ section.k3 {
   -ms-grid-row: 4;
   -ms-grid-column: 12;
   grid-area: k3;
+  background-image: url(../dot-outline.png);
+}
+
+section.l3 {
+  -ms-grid-row: 4;
+  -ms-grid-column: 13;
+  grid-area: l3;
+  background-image: url(../dot-outline.png);
+}
+
+.dot-fill {
   background-image: url(../dot-fill.png);
+}
+
+.dot-outline {
+  background-image: url(../dot-outline.png);
 }
 
 .router-anim-enter-active {

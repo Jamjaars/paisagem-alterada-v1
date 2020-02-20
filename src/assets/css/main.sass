@@ -1,4 +1,5 @@
 $fundo-verde: #374631
+$quadrantes:  f1, c2, d2, e2, f2, h2, i2, j2, b3, c3, d3, e3, f3, g3, h3, i3, j3, k3, l3
 
 ::-webkit-scrollbar
   width: 0px;
@@ -126,80 +127,16 @@ h1
 
 section 
 
-  // row 1
-  &.f1
-    grid-area: f1 
-    background-image: url(../dot-outline.png)
+  @each $quadrado in $quadrantes
+    &.#{$quadrado}
+      grid-area: $quadrado
+      background-image: url(../dot-outline.png)
 
-  // row 2
-  &.c2
-    grid-area: c2 
-    background-image: url(../dot-outline.png)
+.dot-fill
+  background-image: url(../dot-fill.png)
 
-  &.d2
-    grid-area: d2 
-    background-image: url(../dot-outline.png)
-
-  &.e2
-    grid-area: e2 
-    background-image: url(../dot-fill.png)
-
-  &.f2
-    grid-area: f2 
-    background-image: url(../dot-fill.png)
-
-  &.h2
-    grid-area: h2 
-    background-image: url(../dot-outline.png)
-
-  &.i2
-    grid-area: i2 
-    background-image: url(../dot-outline.png)
-
-  &.j2
-    grid-area: j2 
-    background-image: url(../dot-fill.png)
-  
-  // row 3
-  &.b3
-    grid-area: b3 
-    background-image: url(../dot-outline.png)  
-    
-  &.c3
-    grid-area: c3 
-    background-image: url(../dot-outline.png)  
-    
-  &.d3
-    grid-area: d3 
-    background-image: url(../dot-outline.png)  
-    
-  &.e3
-    grid-area: e3 
-    background-image: url(../dot-outline.png)  
-    
-  &.f3
-    grid-area: f3 
-    background-image: url(../dot-outline.png)  
-    
-  &.g3
-    grid-area: g3 
-    background-image: url(../dot-outline.png)  
-    
-  &.h3
-    grid-area: h3 
-    background-image: url(../dot-outline.png)  
-    
-  &.i3
-    grid-area: i3 
-    background-image: url(../dot-outline.png)  
-    
-  &.j3
-    grid-area: j3 
-    background-image: url(../dot-outline.png)  
-    
-  &.k3
-    grid-area: k3 
-    background-image: url(../dot-fill.png)  
+.dot-outline
+  background-image: url(../dot-outline.png)  
     
 
 // animations
