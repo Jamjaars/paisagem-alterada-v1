@@ -1,9 +1,11 @@
 <template>
-  <div id="app">
+<div>
     <header-nav />
+  <div id="app">
     <transition name="router-anim" mode="out-in">
     <router-view />
     </transition>
+  </div>
   </div>
 </template>
 

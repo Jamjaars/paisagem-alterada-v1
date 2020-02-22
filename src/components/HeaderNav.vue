@@ -1,4 +1,5 @@
 <template>
+<div class="header__wrap">
   <header class="header--fixed">
     <div class="header__nav">
       <span class="header__title">paisagem-alterada-v1</span>
@@ -6,6 +7,7 @@
       <router-link class="header__link" to="/">Home</router-link>
     </div>
   </header>
+</div>
 </template>
 
 <script>

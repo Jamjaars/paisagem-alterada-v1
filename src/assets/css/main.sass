@@ -32,6 +32,9 @@ body
   background-color: $fundo-verde
   z-index: 0
   margin: 0px
+  font-family: Avenir, Helvetica, Arial, sans-serif
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
 
   &::before
     content: ''
@@ -48,9 +51,9 @@ header
   position: fixed
   top: 0
   left: 0
-  display: inline-block
-  width: 100vw
-  background-color: rgba(0,0,0,.3 )
+  width: 100%
+  background-color: rgba(0,0,0, .3)
+  overflow: hidden
 
   // &::before
   //   content: ''
@@ -60,13 +63,6 @@ header
   //   width: 100%
   //   height: 100%
 
-  &--fixed
-    top: 0
-    width: 100vw
-    box-sizing: border-box
-    overflow: hidden
-    z-index: 10
-
 
 h1
   color: #42b983
@@ -74,6 +70,14 @@ h1
 .header
   position: fixed
   width: 100vw
+
+  &--fixed  
+    position: fixed
+    top: 0
+    width: 100vw
+    box-sizing: border-box
+    overflow: hidden
+    z-index: 10
 
   &__title
     float: left

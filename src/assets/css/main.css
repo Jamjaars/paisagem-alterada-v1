@@ -39,6 +39,9 @@ body {
   background-color: #374631;
   z-index: 0;
   margin: 0px;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body::before {
@@ -57,18 +60,9 @@ header {
   position: fixed;
   top: 0;
   left: 0;
-  display: inline-block;
-  width: 100vw;
+  width: 100%;
   background-color: rgba(0, 0, 0, 0.3);
-}
-
-header--fixed {
-  top: 0;
-  width: 100vw;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
   overflow: hidden;
-  z-index: 10;
 }
 
 h1 {
@@ -78,6 +72,16 @@ h1 {
 .header {
   position: fixed;
   width: 100vw;
+}
+
+.header--fixed {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  overflow: hidden;
+  z-index: 10;
 }
 
 .header__title {
