@@ -147,7 +147,5 @@ export default {
       ],
     };
   },
-  components: {
-  }
 };
 </script>
