@@ -9,7 +9,7 @@
 
 <script>
 // @ is an alias to /src
-
+window.onload = window.scroll(500,0);
 export default {
   name: "Home",
   data () {
