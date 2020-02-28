@@ -70,7 +70,7 @@ h1 {
 }
 
 .header {
-  position: absolute;
+  position: fixed;
   width: 100vw;
 }
 
