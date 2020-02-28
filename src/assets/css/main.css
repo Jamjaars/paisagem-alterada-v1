@@ -57,8 +57,7 @@ body::before {
 }
 
 header {
-  position: -webkit-sticky;
-  position: sticky;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -71,14 +70,12 @@ h1 {
 }
 
 .header {
-  position: -webkit-sticky;
-  position: sticky;
+  position: fixed;
   width: 100vw;
 }
 
 .header--fixed {
-  position: -webkit-sticky;
-  position: sticky;
+  position: fixed;
   top: 0;
   width: 100vw;
   -webkit-box-sizing: border-box;
