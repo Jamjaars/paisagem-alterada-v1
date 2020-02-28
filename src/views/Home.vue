@@ -14,7 +14,8 @@ export default {
   name: "Home",
   metaInfo: {
     title: "Paisagem Alterada | Clara Varandas",
-    viewport: 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'
+    viewport: 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no',
+    HandheldFriendly: 'true'
   },
   data () {
     return {
