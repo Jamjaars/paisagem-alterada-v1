@@ -1,8 +1,7 @@
 <template>
   <div class="home">
       <img class="home__brasil fade-in-final" src="../assets/mapa-brasil.png" />
-      <transition-group name="slide-in" tag="section" v-for="(items, index) in mapa" :key="items" :class="[items.quadrante, items.pintado, 'animation-delay' + index]">  
-      <!-- <section v-for="items in mapa" :key="items" :class="[items.quadrante, items.pintado]"></section> -->
+      <transition-group name="slide-in" tag="a" v-for="(items, index) in mapa" :key="items" :class="[items.quadrante, items.pintado, 'animation-delay' + index]" href="./imgOverlay.vue">  
       </transition-group>
   </div>
 </template>
